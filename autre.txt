@@ -1,3 +1,4 @@
 ceci est un autre fichier de poisson
 écrit le 1er avril 2020 pdt le confinement du covidus
-
+on est dans la "nouvelle branche" et on modifie le fichier "autre.txt"
+vim ooo
