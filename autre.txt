@@ -3,3 +3,7 @@ ceci est un autre fichier de poisson
 on est dans la "nouvelle branche" et on modifie le fichier "autre.txt"
 vim ooo
 j'utilise nano au lieu de vim
+bon ça revient ou pas ?
+
+Je vais tester stash
+
