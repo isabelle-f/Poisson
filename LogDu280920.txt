@@ -1,0 +1,79 @@
+commit f4315d904d9aaf7f0296650acdbdcefcd4151302
+Author: isabelle-f <63008011+isabelle-f@users.noreply.github.com>
+Date:   Fri Sep 25 14:49:29 2020 +0200
+
+    Delete ListeInfosCharteAcces.txt
+
+commit 12740a9e110bca6e8b9f6c0b888e977d503427c6
+Author: isabelle-f <63008011+isabelle-f@users.noreply.github.com>
+Date:   Fri Sep 25 14:49:12 2020 +0200
+
+    Delete ChantierBBEES_V5.pdf
+
+commit 9f090c5c55df562c657648ff7cb9a2a9eb944add
+Author: isabelle-f <63008011+isabelle-f@users.noreply.github.com>
+Date:   Fri Sep 25 14:46:39 2020 +0200
+
+    pdf
+
+commit 4854104e1cad40ab661b7718752b00174cf5e666
+Author: isabelle-f <63008011+isabelle-f@users.noreply.github.com>
+Date:   Fri Sep 25 14:44:26 2020 +0200
+
+    .........
+
+commit 992d03bfa02b70375deb3ef02c6ef9207d01d5e0
+Author: isabelle-f <63008011+isabelle-f@users.noreply.github.com>
+Date:   Wed Jun 10 12:06:35 2020 +0200
+
+    Create juin20
+    
+    juin
+
+commit f92fdd2b5ad0c5dee03f64a9c1c26e6d89a978a7
+Author: isabelle-f <63008011+isabelle-f@users.noreply.github.com>
+Date:   Wed Apr 1 20:11:57 2020 +0200
+
+    et les sauts de ligne
+
+commit a8bf7f4d212d6820cc941d4cc231952d28d07b18
+Author: isabelle-f <63008011+isabelle-f@users.noreply.github.com>
+Date:   Wed Apr 1 20:10:46 2020 +0200
+
+    Ajout d'une poule
+
+commit 86a313dc4ccf2a5753c1a63778e9128141084593
+Author: isabelle.falleau <isabelle.falleau@mnhn.fr>
+Date:   Wed Apr 1 19:59:38 2020 +0200
+
+    ajout en local souci fin de ligne
+
+commit 40889e931822d69e575537034f165d22d59539c4
+Author: isabelle-f <63008011+isabelle-f@users.noreply.github.com>
+Date:   Wed Apr 1 19:51:59 2020 +0200
+
+    ajout des sauts de lignes
+
+commit 51645c6604f26f397ff7fbace2aa51579e6da1bb
+Author: isabelle-f <63008011+isabelle-f@users.noreply.github.com>
+Date:   Wed Apr 1 19:50:43 2020 +0200
+
+    Ajout d'une ligne à partir de github
+
+commit 3a30e1fbb9cfdf1521a4df04b17e583f0d1fb697
+Author: isabelle.falleau <isabelle.falleau@mnhn.fr>
+Date:   Wed Apr 1 19:37:21 2020 +0200
+
+    autre fichier texte
+
+commit 0f53a0dd9d0770d8875057060071b3b12ce7191c
+Author: isabelle.falleau <isabelle.falleau@mnhn.fr>
+Date:   Wed Apr 1 19:29:45 2020 +0200
+
+    ajout ligne en local
+
+commit 50c6eaa6c2e5224ebbfd4dbf1ac90c417ae58d61
+Author: isabelle-f <63008011+isabelle-f@users.noreply.github.com>
+Date:   Wed Apr 1 17:54:18 2020 +0200
+
+    Initial commit
