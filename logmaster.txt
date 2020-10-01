@@ -1,3 +1,4 @@
+On teste .gitignore
 commit 7a90de7d1825422b9b9c94db0f733d72bf207e03
 Author: Isabelle Falleau <isabelle.falleau@mnhn.fr>
 Date:   Mon Sep 28 16:56:27 2020 +0200
