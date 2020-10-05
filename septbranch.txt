@@ -1,3 +1,4 @@
+Sur la branche Septembre, avant stash :
 Nouveau fichier
 Dans la nouvelle branche
 Que va-t-on voir sur GitHub ?
